@@ -1,0 +1,4 @@
+water
+fire
+land
+space
